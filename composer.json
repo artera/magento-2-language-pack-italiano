@@ -11,10 +11,6 @@
     {
       "name": "Artera",
       "homepage": "https://www.artera.it"
-    },
-    {
-      "name": "Marco Moltrasi",
-      "email": "marco.moltrasi@artera.net"
     }
   ],
   "require": {
