@@ -1,0 +1,28 @@
+{
+  "name": "artera/magento-2-language-pack-italiano",
+  "description": "Artera Traduzione Italiana Magento 2 (Italian - it_IT)",
+  "homepage": "https://github.com/artera/magento-2-language-pack-italiano",
+  "type": "magento2-language",
+  "version": "100.2.0",
+  "license": [
+    "OSL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Artera",
+      "homepage": "https://www.artera.it"
+    },
+    {
+      "name": "Marco Moltrasi",
+      "email": "marco.moltrasi@artera.net"
+    }
+  ],
+  "require": {
+    "magento/framework": ">=100.0.0"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
