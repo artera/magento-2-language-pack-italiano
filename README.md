@@ -31,7 +31,7 @@ php bin/magento cache:flush
 Download our Language Package from this repository.
 
 **Upload Italian package**
-Create this subdirectories path in your magento root folder like **[Your_Megneto_Root]**`/app/i18n/Artera/language-it_it/`
+Create these subdirectories path in your magento root folder like **[Your_Magento_Root]**`/app/i18n/Artera/language-it_it/`
 Unzip the Italian Language Package here.
 
 **Flush cache**
