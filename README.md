@@ -12,14 +12,14 @@ We reccomended use it on your Magento projects with Composer.
 
 **Install Italian package**
 ```
-composer require artera/magento-2-language-pack-italiano:dev-master
+composer require artera/magento-2-language-pack-italiano
 php bin/magento setup:static-content:deploy it_IT
 php bin/magento cache:flush
 ```
 
 **Update Italian package**
 ```
-composer update artera/magento-2-language-pack-italiano:dev-master
+composer update artera/magento-2-language-pack-italiano
 php bin/magento setup:static-content:deploy it_IT
 php bin/magento cache:flush
 ```
